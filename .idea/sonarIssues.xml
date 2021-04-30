@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-auth-center/src/main/java/com/roaddb/authcenter/filter/LoginFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-auth-center/src/main/java/com/roaddb/authcenter/util/JwtTokenUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-auth-center/src/main/java/com/roaddb/authcenter/util/ResolveTokenGetAuthInfoUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-common-bean/src/main/java/com/roaddb/common/bean/feign/api/ComputeManagerRemoteApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-compute-manager/src/main/java/com/roaddb/compute/manager/service/BroadcastService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-compute-worker/src/main/resources/config/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-serialized-service/src/main/java/com/roaddb/serializedservice/SerializedMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-serialized-service/src/main/java/com/roaddb/serializedservice/conf/EnvVars.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-serialized-service/src/main/java/com/roaddb/serializedservice/controller/SerializedController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-serialized-service/src/main/java/com/roaddb/serializedservice/helper/BackupHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-serialized-service/src/main/java/com/roaddb/serializedservice/helper/CommonHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-serialized-service/src/main/java/com/roaddb/serializedservice/manager/BackupManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-serialized-service/src/main/java/com/roaddb/serializedservice/manager/ProcessManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-serialized-service/src/main/java/com/roaddb/serializedservice/service/AlgorithmService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-serialized-service/src/main/java/com/roaddb/serializedservice/service/ProcessService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-serialized-service/src/main/resources/config/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-serialized-service/src/test/java/com/roaddb/serializedservice/service/AlgorithmServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-service-accessories/k8s-chart/charts/rdb-server-compute-worker/templates/deployment.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-service-accessories/sql/rdb-server-application.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../study/xxl-micro-service/xxl-register-center/src/main/java/com/xxl/micro/RegisterCenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../study/xxl-micro-service/xxl-server1/src/main/java/com/xxl/micro/XxlMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../study/xxl-micro-service/xxl-server2/src/main/java/com/xxl/micro/Server2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../study/xxl-micro-service/xxl-server2/src/main/java/com/xxl/micro/controller/Controller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom-parent.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/AuthCenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/config/Const.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/config/DataSourceConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/config/DbConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/config/GlobalControllerAdvice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/config/MasterDbConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/config/PasswordEncoderConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/config/SpringSecurityConfigurer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/config/SwaggerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/config/filter/LoginFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/controller/LoginController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/controller/UserRestController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/entity/AuthenticationInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/entity/CustomConfigAttribute.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/entity/po/Authority.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/entity/po/Page.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/entity/po/Portal.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/entity/po/Role.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/entity/po/RolesUrlGroupsMapping.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/entity/po/Url.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/entity/po/UrlGroup.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/entity/po/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/entity/vo/AddUserVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/entity/vo/ModifyUserVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/entity/vo/ReturnCodeVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/entity/vo/SearchVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/entity/vo/UserDetailForDisplayVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/entity/vo/UserDetailVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/entity/vo/UserVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/exception/RoleAlreadyAssignedException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/exception/RoleNotFoundException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/exception/UnknownFormatException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/exception/UrlGroupNotFoundException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/exception/UserNotFoundException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/metrics/AuthRequestMetricsResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/repository/AuthorityRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/repository/AuthorityTypeRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/repository/RoleRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/repository/RolesUrlGroupMappingRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/repository/UrlGroupRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/repository/UserRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/repository/specification/UserSpecs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/service/AuthService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/service/AuthorityService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/service/RolesService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/service/RolesUrlGroupsMappingService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/service/UrlGroupsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/service/UsersService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/service/impl/AuthServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/service/impl/AuthorityServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/service/impl/RolesServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/service/impl/RolesUrlGroupsMappingServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/service/impl/UrlGroupsServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/service/impl/UsersServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/util/FileUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/util/JwtTokenUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/util/ResolveTokenGetAuthInfoUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/util/SecurityUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/java/com/xxl/util/ViewHelperUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/resources/config/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/resources/config/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/resources/sql/xxl-spring-auth-center.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/resources/sql/xxl-spring-auth-db-create.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/resources/templates/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-auth-center/src/main/resources/templates/login.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-business-a/note.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-business-a/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-business-a/src/main/java/com/xxl/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-business-a/src/main/java/com/xxl/ApplicationA.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-business-a/src/main/java/com/xxl/BusinessA.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-business-a/src/main/java/com/xxl/config/SwaggerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-business-a/src/main/java/com/xxl/config/WebLogAspect.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-business-a/src/main/java/com/xxl/controller/XxlController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-business-a/src/main/java/com/xxl/entity/vo/AlgorithmConfigVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-business-a/src/main/resources/config/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-business-a/src/main/resources/config/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-business-a/src/main/resources/templates/serialized_result_failed.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-business-b/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-business-b/src/main/java/com/xxl/BusinessB.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-business-b/src/main/java/com/xxl/controller/XxlController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-business-b/src/main/resources/config/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-business-b/src/main/resources/config/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-common/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-common/src/main/java/com/xxl/exception/HttpBadRequestException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-common/src/main/java/com/xxl/exception/HttpResourceNotFoundException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-common/src/main/java/com/xxl/feign/BusinessARemoteApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-common/src/main/java/com/xxl/feign/BusinessBRemoteApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-common/src/main/java/com/xxl/feign/api/BusinessBRemoteApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-common/src/main/java/com/xxl/feign/conf/FeignConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-config-center-eureka/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-config-center/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-config-center/src/main/java/com/xxl/ConfigCenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-config-center/src/main/resources/config/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-config-center/src/main/resources/sql/configdb-create.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-config-center/src/main/resources/sql/configdb-schema.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo1/note.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo1/note.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo1/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo1/src/main/java/com/xxl/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo1/src/main/java/com/xxl/config/DataSourceConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo1/src/main/java/com/xxl/config/PrimaryConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo1/src/main/java/com/xxl/config/SecondaryConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo1/src/main/java/com/xxl/domain/p/Student.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo1/src/main/java/com/xxl/domain/p/StudentRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo1/src/main/java/com/xxl/domain/p/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo1/src/main/java/com/xxl/domain/p/UserRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo1/src/main/java/com/xxl/domain/s/Message.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo1/src/main/java/com/xxl/domain/s/MessageRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo1/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo1/src/test/java/com/xxl/ApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo2/note.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo2/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo2/src/main/java/com/xxl/service/UserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo2/src/main/java/com/xxl/service/UserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo2/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo2/src/main/resources/db.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo2/src/test/java/com/xxl/ApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo3/note.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo3/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo3/src/main/java/com/xxl/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo3/src/main/java/com/xxl/domain/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo3/src/main/java/com/xxl/domain/UserRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo3/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo3/src/test/java/com/xxl/ApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo4/note.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo4/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo4/src/main/java/com/xxl/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo4/src/main/java/com/xxl/DataSourceConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo4/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo4/src/main/resources/db.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-demo4/src/test/java/com/xxl/ApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mybatis/note.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mybatis/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mybatis/src/main/java/com/xxl/domain/Student.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mybatis/src/main/java/com/xxl/domain/StudentMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mybatis/src/main/java/com/xxl/domain/UserMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mybatis/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mybatis/src/test/java/com/xxl/ApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mybatis2/note.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mybatis2/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mybatis2/xxl-db-mybatis2.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-gateway-zuul/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-gateway-zuul/src/main/java/com/xxl/GatewayZuul.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-gateway-zuul/src/main/resources/config/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-gateway-zuul/src/main/resources/config/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-gateway-zuul2/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-gateway-zuul2/src/main/java/com/xxl/GatewayZuul2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-gateway-zuul2/src/main/java/com/xxl/controller/LoginController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-gateway-zuul2/src/main/java/com/xxl/filter/AuthFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-gateway-zuul2/src/main/java/com/xxl/filter/LoginFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-gateway-zuul2/src/main/java/com/xxl/util/JwtUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-gateway-zuul2/src/main/java/com/xxl/util/JwtUtils2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-gateway-zuul2/src/main/java/com/xxl/util/PathMatchUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-gateway-zuul2/src/main/java/com/xxl/util/RSACrypt.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-gateway-zuul2/src/main/resources/config/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-gateway-zuul2/src/main/resources/config/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-mongodb/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-mongodb/src/main/java/com/xxl/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-mongodb/src/main/java/com/xxl/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-mongodb/src/main/java/com/xxl/UserRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-mongodb/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-mongodb/src/test/java/com/xxl/ApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-redis/READMD.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-redis/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-redis/src/main/java/com/xxl/config/RedisConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-redis/src/main/java/com/xxl/entity/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-redis/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-redis/src/main/resources/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-redis/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-redis/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-redis/src/test/java/com/xxl/ApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-register-center/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-register-center/src/main/java/com/xxl/RegisterCenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-register-center/src/main/resources/config/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-register-center/src/test/java/com/xxl/RegisterCenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/java/com/xxl/StudyApp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/java/com/xxl/controller/LoginController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/resources/config/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/resources/config/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

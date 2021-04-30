@@ -1,0 +1,7 @@
+# Project exclude paths
+/xxl-business-a/target/
+/xxl-common/target/
+/xxl-config-center/target/
+/xxl-db-mybatis/target/
+/xxl-mongodb/target/
+/xxl-register-center/target/

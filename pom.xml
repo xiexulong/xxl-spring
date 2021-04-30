@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.xxl</groupId>
+    <artifactId>xxl-spring-parent</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <relativePath>pom-parent.xml</relativePath>
+  </parent>
+  <artifactId>xxl-spring</artifactId>
+  <packaging>pom</packaging>
+  <version>1.0-SNAPSHOT</version>
+
+  <modules>
+    <module>xxl-register-center</module>
+    <module>xxl-config-center</module>
+    <module>xxl-business-a</module>
+    <module>xxl-business-b</module>
+    <module>xxl-common</module>
+    <module>xxl-auth-center</module>
+    <module>xxl-study-demo</module>
+    <module>xxl-gateway-zuul</module>
+    <module>xxl-gateway-zuul2</module>
+    <module>xxl-db-demo1</module>
+    <module>xxl-db-demo2</module>
+    <module>xxl-db-demo3</module>
+    <module>xxl-db-demo4</module>
+    <module>xxl-redis</module>
+    <module>xxl-mongodb</module>
+    <module>xxl-db-mybatis</module>
+    <module>xxl-db-mybatis2</module>
+  </modules>
+
+
+
+</project>

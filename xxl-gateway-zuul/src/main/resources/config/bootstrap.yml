@@ -1,0 +1,31 @@
+### default config ###
+
+spring.application.name: xxl-gateway-zuul
+
+spring.cloud.config.enabled: false
+
+spring.profiles.active: development
+
+
+
+### production config ###
+---
+
+spring.profiles: production
+
+spring.cloud.config.enabled: true
+
+spring.cloud.config.failFast: true
+
+spring.cloud.config.discovery.enabled: true
+
+spring.cloud.config.discovery.serviceId: xxl-config-center
+
+spring.cloud.config.retry.max-attempts: 100
+
+spring.cloud.config.retry.multiplier: 1
+
+spring.cloud.config.retry.initial-interval: 3000
+
+spring.cloud.config.retry.max-interval: 3000
+

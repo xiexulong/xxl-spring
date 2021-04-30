@@ -1,0 +1,35 @@
+### default config ###
+
+server.port: 9910
+
+logging.config: classpath:config/logback.xml
+
+spring.jmx.enabled: false
+
+management.security.enabled: false
+
+
+
+### development,test config ###
+---
+
+spring.profiles: development,test
+
+eureka.client.registerWithEureka: true
+eureka.client.fetchRegistry: true
+eureka.client.serviceUrl.defaultZone: http://127.0.0.1:9910/eureka
+#eureka.client.serviceUrl.defaultZone: http://172.19.0.31:9910/eureka
+eureka.instance.lease-renewal-interval-in-seconds: 5
+logging.file: /Users/user/xxl/log/service/xxl-spring/xxl-register-center.log
+
+
+### production config ###
+---
+
+spring.profiles: production
+
+logging.file: /Users/user/xxl/log/service/xxl-spring/RegisterCenter.log
+
+eureka.client.registerWithEureka: ${eureka.ha.enabled}
+eureka.client.fetchRegistry: ${eureka.ha.enabled}
+

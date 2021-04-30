@@ -1,0 +1,101 @@
+### default config ###
+
+server.port: 9920
+
+logging.config: classpath:config/logback.xml
+
+spring.jmx.enabled: false
+
+management.security.enabled: false
+#此处可以在nginx 配置转发到auth-center 的 /login
+login.path: /AuthCenter/login
+auth.jwt.header.name: Authorization
+auth.jwt.header.prefix: Bearer
+auth.jwt.cookie.name: JTOKEN
+auth.jwt.expiration: 604800 #
+auth.jwt.algorithm.type: RSA
+auth.jwt.cert.private: key/private_key.der
+auth.jwt.cert.public: key/public_key.der
+
+#forbid to proxy serverId
+#zuul.ignored-services: '*'
+
+#zipkin.collector.rabbitmq.addresses:  ${rabbitmq.addr}
+#zipkin.collector.rabbitmq.queue: zipkin
+#使用zipkin配合rabbitMq进行服务追踪的来源，即服务之间的调用关系不仅发到zipkin-server，而且还会发到mq中，当然也可以使用mysql进行存储，原理都类似
+spring.zipkin.rabbitmq.queue: zipkin
+
+#设置 线程隔离和断路器的自我保护功能
+#隔离策略： 线程隔离、信号量隔离
+zuul.ribbon-isolation-strategy: thread
+hystrix.threadpool.default.coreSize: 1
+hystrix.threadpool.default.maximumSize: 100
+hystrix.threadpool.default.maxQueueSize: 100
+hystrix.threadpool.default.queueSizeRejectionThreshold: 100
+
+#隔离策略是SEMAPHORE（信号量）
+#hystrix.command.default.execution.isolation.strategy: SEMAPHORE
+#hystrix.command.default.execution.isolation.semaphore.maxConcurrentRequests: 10 # 默认值
+
+
+# 提供客户端的负载均衡功能，spring cloud的负载均衡都用到这个库。例如：fegin
+zuul.retryable: true
+ribbon.connectTimeout: 500
+ribbon.readTimeout: 50000
+ribbon.maxAutoRetries: 1
+ribbon.maxAutoRetriesNextServer: 3
+ribbon.okToRetryOnAllOperations: true
+
+zuul.sensitiveHeaders:
+
+
+zuul.routes.xxl-config-center.path: /config-center/**
+zuul.routes.xxl-config-center.service-id: xxl-config-center
+zuul.routes.xxl-config-center.strip-prefix: false
+zuul.routes.xxl-config-center.sensitive-headers:
+
+zuul.routes.xxl-business-b.path: /BussinessB/**
+zuul.routes.xxl-business-b.service-id: xxl-business-b
+zuul.routes.xxl-business-b.strip-prefix: false
+
+zuul.routes.xxl-business-a.path: /BussinessA/**
+zuul.routes.xxl-business-a.service-id: xxl-business-a
+zuul.routes.xxl-business-a.strip-prefix: false
+
+zuul.routes.xxl-auth-center.path: /AuthCenter/**
+zuul.routes.xxl-auth-center.service-id: xxl-auth-center
+zuul.routes.xxl-auth-center.strip-prefix: false
+zuul.routes.xxl-auth-center.sensitive-headers:
+
+
+### development config ###
+---
+
+spring.profiles: development
+
+eureka.client.serviceUrl.defaultZone: http://127.0.0.1:9910/eureka
+
+#spring.sleuth.sampler.percentage: 1
+
+#hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds: 60000
+
+
+
+### test config ###
+---
+
+spring.profiles: test
+
+eureka.client.enabled: false
+
+
+
+### production config ###
+---
+
+spring.profiles: production
+
+logging.file: /Users/user/xxl/log/service/xxl-spring/GatewayZuul.log
+
+
+

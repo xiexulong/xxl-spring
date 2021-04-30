@@ -1,0 +1,9 @@
+# springboot 2.0 之前用server.context-path
+#server.contextPath: /SerializedService
+# springboot 2.0 之后 改为server.servlet.context-path
+server:
+  port: 9092
+  servlet:
+    context-path: /
+
+spring.profiles.active: dev
