@@ -83,7 +83,7 @@
           <fork>true</fork>
         </configuration>
       </plugin>
-      <plugin>
+     <!-- <plugin>
         <artifactId>maven-antrun-plugin</artifactId>
         <executions>
           <execution>
@@ -102,7 +102,7 @@
             </goals>
           </execution>
         </executions>
-      </plugin>
+      </plugin>-->
     </plugins>
     <resources>
       <resource>

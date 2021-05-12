@@ -372,6 +372,7 @@ begin
 	declare l_authorities_super_admin_type_id int unsigned;
 	declare user_auth_loaded boolean;  
 	declare l_Roles_Urlgroups_last_id  int unsigned;
+
 		call Add_Role("SUPER_ADMIN",2,false,l_authorities_super_admin_type_id);
 		call Add_User("admin","$2a$15$cJNFZHP4wa2FPg9UsV6.KegfjJUA5lnyDw0/JNcj/SkYzcrqyji16",1,"ADMIN","admin@xxl.com",l_user_id);
 		call Add_User("road","$2a$15$QeuSCLP8s8r5xMJsW9xcGe8f7EeI7YJCrWlLlabbYWX2R7VBFwwXy",1,"road","road@xxl.com",l_user_id);

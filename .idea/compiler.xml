@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="xxl-txlcn-tcc" />
         <module name="xxl-config-center" />
+        <module name="xxl-txlcn-lcn" />
         <module name="xxl-auth-center" />
         <module name="xxl-study-demo" />
         <module name="xxl-db-mybatis2" />
@@ -18,16 +20,19 @@
         <module name="xxl-db-demo2" />
         <module name="xxl-business-a" />
         <module name="xxl-db-demo1" />
+        <module name="xxl-rabbitmq" />
         <module name="xxl-register-center" />
         <module name="xxl-mongodb" />
+        <module name="xxl-txlcn-tm" />
+        <module name="xxl-zookeeper" />
         <module name="xxl-db-mybatis" />
         <module name="xxl-redis" />
         <module name="xxl-common" />
+        <module name="xxl-txlcn-txc" />
+        <module name="xxl-es" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="xxl-spring-parent" target="1.5" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8" />
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

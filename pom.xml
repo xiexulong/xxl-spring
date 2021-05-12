@@ -31,6 +31,13 @@
     <module>xxl-mongodb</module>
     <module>xxl-db-mybatis</module>
     <module>xxl-db-mybatis2</module>
+    <module>xxl-zookeeper</module>
+    <module>xxl-rabbitmq</module>
+    <module>xxl-txlcn-tm</module>
+    <module>xxl-txlcn-tcc</module>
+    <module>xxl-txlcn-lcn</module>
+    <module>xxl-txlcn-txc</module>
+    <module>xxl-es</module>
   </modules>
 
 

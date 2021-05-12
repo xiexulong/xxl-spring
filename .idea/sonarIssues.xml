@@ -28,12 +28,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-common-compute/src/main/java/com/roaddb/common/compute/mq/AlgoMqManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-compute-manager/src/main/java/com/roaddb/compute/manager/service/BroadcastService.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-compute-worker/src/main/java/com/roaddb/compute/worker/workflow/algo/execute/impl/SnippetAnalyzerExecutor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-compute-worker/src/main/resources/config/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-device-manager/src/main/java/com/roaddb/devicemanager/mq/DmMqConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-mysql-jdbc/src/opt/ygomi/roadDB/work_path/sql/rdb_server_jdbc_db.sql">
           <value>
             <set />
           </value>
@@ -93,12 +113,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-service-accessories/conf/elasticsearch/elasticsearch.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-service-accessories/k8s-chart/charts/rdb-server-compute-worker/templates/deployment.yaml">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-service-accessories/k8s-chart/charts/rdb-server-mysql-jdbc/init/schema-sql/rdb-server-jdbc-db.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-service-accessories/sql/rdb-server-application.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-service-accessories/sql/rdb_server_db_init.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-upload-manager/src/main/java/com/roaddb/uploadmanager/controller/UploadManagerController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../server_api/server_apis/SerializedService.json">
           <value>
             <set />
           </value>
@@ -119,6 +164,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../study/xxl-micro-service/xxl-server2/src/main/java/com/xxl/micro/controller/Controller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-data-elasticsearch/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../xxl-jdk11-demo/xxl-jdk11-demo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../xxl-jdk11-demo/xxl-jdk11-demo/xxl-es2/pom.xml">
           <value>
             <set />
           </value>
@@ -578,6 +638,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/xxl-common/src/main/java/com/xxl/feign/api/TxlcnTccRemoteApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-common/src/main/java/com/xxl/feign/api/TxlcnTxcRemoteApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/xxl-common/src/main/java/com/xxl/feign/conf/FeignConfig.java">
           <value>
             <set />
@@ -843,6 +913,121 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/xxl-es/note.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-es/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-es/src/main/java/com/xxl/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-es/src/main/java/com/xxl/XxlDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-es/src/main/java/com/xxl/config/ESConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-es/src/main/java/com/xxl/config/ElasticSearchConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-es/src/main/java/com/xxl/config/TransportClientConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-es/src/main/java/com/xxl/controller/CityRestController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-es/src/main/java/com/xxl/controller/XxlController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-es/src/main/java/com/xxl/dao/CityRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-es/src/main/java/com/xxl/dao/UserRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-es/src/main/java/com/xxl/entity/City.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-es/src/main/java/com/xxl/entity/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-es/src/main/java/com/xxl/service/CityService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-es/src/main/java/com/xxl/service/UserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-es/src/main/java/com/xxl/service/UserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-es/src/main/java/com/xxl/service/impl/CityESServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-es/src/main/java/com/xxl/service/impl/UserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-es/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-es/src/main/resources/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-es/src/main/resources/elasticsearch.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-es/src/main/resources/kibana.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-es/src/test/java/com/xxl/AppTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/xxl-gateway-zuul/pom.xml">
           <value>
             <set />
@@ -948,6 +1133,251 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/note.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/demo/helloword/Consumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/demo/helloword/ConsumerDemo1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/demo/helloword/ProducerDemo1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/demo/pubsub/Demo3Consumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/demo/pubsub/Demo3Producer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/demo/routing/Demo4Consumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/demo/routing/Demo4Producer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/demo/topic/Demo5Consumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/demo/topic/Demo5Producer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/demo/workqueue/ConsumerDemo2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/demo/workqueue/ProducerDemo2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/exception/BroadcastException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/helper/BroadcastHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/mq/MqConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/mq/MqConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/mq/MqException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/mq/MqManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/mq/broadcast/entity/BroadcastResult.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/mq/common/listener/ChannelShutdown406Listener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/mq/common/message/BroadcastMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/mq/demo1/AlgoMqManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/mq/demo1/ChannelShutdown406Listener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/mq/demo1/DefaultConsumerWrapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/mq/demo1/common/AlgoQueues.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/mq/demo1/common/AlgoType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/mq/demo1/entity/BroadcastResult.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/mq/demo2/AlgoReplyConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/mq/demo2/BroadcastProducer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/mq/demo2/BroadcastReplyConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/mq/demo2/ComputeMqManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/mq/demo3/DmMqConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/mq/demo3/DmMqManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/mq/message/BroadcastMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/mq/message/BroadcastReplyMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/service/BroadcastProducer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/service/BroadcastResult.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/service/BroadcastService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/util/retry/RetryPredicate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/util/retry/RetryUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/util/retry/exception/RetryException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/util/retry/exception/RetryExecutionException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/util/retry/exception/RetryInterruptedException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/util/retry/exception/RetryMaxCallableException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/util/retry/exception/RetryPredicateException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/util/retry/exception/RetryPredicateFailedException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/com/xxl/util/retry/exception/RetryPredicateFalseException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-rabbitmq/src/main/java/interfaces/OpenRunnable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/xxl-redis/READMD.md">
           <value>
             <set />
@@ -1023,7 +1453,82 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/java/com/xxl/concurrent/DistributedManagerFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/java/com/xxl/concurrent/demo/CountDownLatchTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/java/com/xxl/concurrent/demo/CountDownLatchTest2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/java/com/xxl/concurrent/distributed/DistributedManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/java/com/xxl/concurrent/distributed/DistributedManagerFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/java/com/xxl/concurrent/distributed/RedisManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/java/com/xxl/concurrent/distributed/ZookeeperManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/java/com/xxl/concurrent/distributed/locks/DCountDownLatch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/java/com/xxl/concurrent/distributed/locks/DistributedLock.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/java/com/xxl/concurrent/distributed/locks/DistributedSemaphore.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/java/com/xxl/concurrent/distributed/locks/imp/ZkDCountDownLatch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/java/com/xxl/concurrent/distributed/locks/imp/ZkDistributedLock.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/java/com/xxl/concurrent/distributed/locks/imp/ZkDistributedSemaphore.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/java/com/xxl/controller/LoginController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/java/com/xxl/util/OpenRunnable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/java/com/xxl/util/TryCatchUtil.java">
           <value>
             <set />
           </value>
@@ -1039,6 +1544,121 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/resources/config/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-txlcn-common/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-txlcn-lcn/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-txlcn-lcn/src/main/java/com/xxl/SpringServiceAApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-txlcn-lcn/src/main/java/com/xxl/config/AopTypeDTXConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-txlcn-lcn/src/main/java/com/xxl/controller/DemoController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-txlcn-lcn/src/main/java/com/xxl/db/domain/Demo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-txlcn-lcn/src/main/java/com/xxl/db/mapper/BaseDemoMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-txlcn-lcn/src/main/java/com/xxl/db/mapper/DemoMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-txlcn-lcn/src/main/java/com/xxl/service/DemoServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-txlcn-lcn/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-txlcn-tcc/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-txlcn-tcc/src/main/java/com/xxl/db/MysqlPrimaryKeysProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-txlcn-tcc/src/main/java/com/xxl/service/DemoService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-txlcn-tcc/src/main/java/com/xxl/service/DemoServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-txlcn-tm/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-txlcn-tm/sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-txlcn-tm/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-txlcn-txc/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-txlcn-txc/src/main/java/com/xxl/SpringServiceBApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-txlcn-txc/src/main/java/com/xxl/controller/DemoController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-txlcn-txc/src/main/java/com/xxl/service/DemoService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-txlcn-txc/src/main/java/com/xxl/service/DemoServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-zookeeper/pom.xml">
           <value>
             <set />
           </value>
