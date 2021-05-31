@@ -1,0 +1,15 @@
+server.port: 9093
+server.contextPath: /xxlmycat
+spring:
+  application.name: xxl-db-mycat
+  datasource:
+    select:
+      url: jdbc:mysql://localhost:3306/xxl_jdbc2?useUnicode=true&characterEncoding=utf8
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      username: root
+      password: helloroot
+    update:
+      url: jdbc:mysql://localhost:3306/xxl_jdbc2?useUnicode=true&characterEncoding=utf8
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      username: root
+      password: helloroot

@@ -15,3 +15,6 @@ create table config (
 );
 
 create index index_config on config (application, profile, label);
+
+insert into config(application, profile, item, value)
+values ('application', 'production', 'xxl.bus.value', 'zhangsan');

@@ -33,7 +33,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-compute-manager/src/main/java/com/roaddb/compute/manager/XxlDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-compute-manager/src/main/java/com/roaddb/compute/manager/controller/AlgoController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-compute-manager/src/main/java/com/roaddb/compute/manager/service/AlgoService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-compute-manager/src/main/java/com/roaddb/compute/manager/service/BroadcastService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-compute-manager/src/main/java/com/roaddb/compute/manager/workflow/TaskDeliverFlow.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-compute-manager/src/main/java/com/roaddb/compute/manager/workflow/batch/split/impl/RefGeneratorSplitter.java">
           <value>
             <set />
           </value>
@@ -54,6 +79,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-mysql-jdbc/src/opt/ygomi/roadDB/work_path/sql/rdb_server_jdbc_db.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-nginx/Dockerfile">
           <value>
             <set />
           </value>
@@ -93,6 +123,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-serialized-service/src/main/java/com/roaddb/serializedservice/metrics/KpiMetricsManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-serialized-service/src/main/java/com/roaddb/serializedservice/service/AlgorithmService.java">
           <value>
             <set />
@@ -109,6 +144,31 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-serialized-service/src/test/java/com/roaddb/serializedservice/service/AlgorithmServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-service-accessories/build/build.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-service-accessories/build/gp_deb_backend.cfg">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-service-accessories/build/template/make_deb.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-service-accessories/build/xxl.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../dev2/rdb-server-backend/rdb-server-service-accessories/build/xxl_postrm.sh">
           <value>
             <set />
           </value>
@@ -523,6 +583,31 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/xxl-bus/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-bus/src/main/java/com/xxl/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-bus/src/main/java/com/xxl/Bus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-bus/src/main/java/com/xxl/controller/XxlController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-bus/src/main/resources/config/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/xxl-business-a/note.md">
           <value>
             <set />
@@ -564,6 +649,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/xxl-business-a/src/main/java/com/xxl/entity/vo/AlgorithmConfigVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-business-a/src/main/java/com/xxl/service/UserService.java">
           <value>
             <set />
           </value>
@@ -633,6 +723,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/xxl-common/src/main/java/com/xxl/feign/api/BusinessARemoteApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/xxl-common/src/main/java/com/xxl/feign/api/BusinessBRemoteApi.java">
           <value>
             <set />
@@ -644,6 +739,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/xxl-common/src/main/java/com/xxl/feign/api/TxlcnTxcRemoteApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-common/src/main/java/com/xxl/feign/api/impl/BusinessAFallback.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-common/src/main/java/com/xxl/feign/api/impl/BusinessAFallbackService.java">
           <value>
             <set />
           </value>
@@ -664,6 +769,66 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/xxl-config-center/src/main/java/com/xxl/ConfigCenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-config-center/src/main/java/com/xxl/conf/GlobalControllerAdvice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-config-center/src/main/java/com/xxl/conf/SwaggerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-config-center/src/main/java/com/xxl/controller/ConfigController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-config-center/src/main/java/com/xxl/controller/GlobalControllerAdvice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-config-center/src/main/java/com/xxl/dao/ConfigDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-config-center/src/main/java/com/xxl/enums/ConfigType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-config-center/src/main/java/com/xxl/mapper/ConfigRowMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-config-center/src/main/java/com/xxl/model/Config.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-config-center/src/main/java/com/xxl/model/vo/ConfigListVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-config-center/src/main/java/com/xxl/model/vo/ConfigUpdateVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-config-center/src/main/java/com/xxl/service/ConfigService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-config-center/src/main/java/com/xxl/service/impl/ConfigServiceImpl.java">
           <value>
             <set />
           </value>
@@ -913,6 +1078,86 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mycat/note.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mycat/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mycat/src/main/java/com/xxl/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mycat/src/main/java/com/xxl/config/DataSourceConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mycat/src/main/java/com/xxl/config/DataSourceContextHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mycat/src/main/java/com/xxl/config/DynamicDataSource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mycat/src/main/java/com/xxl/controller/UserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mycat/src/main/java/com/xxl/dbconfig/DataSourceConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mycat/src/main/java/com/xxl/dbconfig/DataSourceContextHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mycat/src/main/java/com/xxl/dbconfig/DynamicDataSource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mycat/src/main/java/com/xxl/dbconfig/SwitchDataSourceAop.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mycat/src/main/java/com/xxl/entity/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mycat/src/main/java/com/xxl/mapper/ConfigRowMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mycat/src/main/java/com/xxl/mapper/UserMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mycat/src/main/java/com/xxl/service/UserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-db-mycat/src/main/resources/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/xxl-es/note.md">
           <value>
             <set />
@@ -1034,6 +1279,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/xxl-gateway-zuul/src/main/java/com/xxl/GatewayZuul.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-gateway-zuul/src/main/java/com/xxl/zuul/filter/PreLogFilter.java">
           <value>
             <set />
           </value>
@@ -1458,6 +1708,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/java/com/xxl/concurrent/XxlConcurrentDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/java/com/xxl/concurrent/demo/CountDownLatchTest.java">
           <value>
             <set />
@@ -1519,6 +1774,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/java/com/xxl/controller/LoginController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/java/com/xxl/distribution/SnowflakeIdWorker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xxl-study-demo/src/main/java/com/xxl/distribution/redisDistributeId.java">
           <value>
             <set />
           </value>

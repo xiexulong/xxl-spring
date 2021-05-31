@@ -2,6 +2,7 @@ package com.xxl.controller;
 
 import com.xxl.entity.vo.AlgorithmConfigVO;
 import com.xxl.feign.api.BusinessBRemoteApi;
+import com.xxl.service.UserService;
 import com.xxl.util.FileUtil;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiResponse;
@@ -39,6 +40,18 @@ public class XxlController {
         return businessBRemoteApi.helloFeign();
     }
 
+    @Autowired
+    public UserService userService;
+
+    /**
+     * http://192.168.0.107:9060/BussinessA/hystrixMessage?id=1
+     * http://192.168.0.107:9060/BussinessA/hystrixMessage?id=2
+     * http://192.168.0.107:9060/BussinessA/hystrixMessage?id=3
+     */
+    @GetMapping("/hystrixMessage")
+    public String getMessage(long id) {
+        return userService.getMessage(id);
+    }
 
     /**
      * Add User.

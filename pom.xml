@@ -38,6 +38,8 @@
     <module>xxl-txlcn-lcn</module>
     <module>xxl-txlcn-txc</module>
     <module>xxl-es</module>
+      <module>xxl-db-mycat</module>
+    <module>xxl-bus</module>
   </modules>
 
 

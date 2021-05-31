@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/xxl-auth-center/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxl-bus/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xxl-business-a/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xxl-business-b/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xxl-common/src/main/java" charset="UTF-8" />
@@ -13,6 +14,7 @@
     <file url="file://$PROJECT_DIR$/xxl-db-mybatis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xxl-db-mybatis2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xxl-db-mybatis2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxl-db-mycat/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xxl-es/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xxl-gateway-zuul/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xxl-gateway-zuul2/src/main/java" charset="UTF-8" />

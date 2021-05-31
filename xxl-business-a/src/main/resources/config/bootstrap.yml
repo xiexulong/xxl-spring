@@ -10,7 +10,7 @@ eureka.client.serviceUrl.defaultZone: http://127.0.0.1:9910/eureka
 global.feign.client.config.maxAttempts: 3
 
 spring.profiles.active: development
-
+management.endpoints.web.exposure.include: 'hystrix.stream'
 
 
 ### development config ###
